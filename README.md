@@ -1,2 +1,2 @@
 # hello-world
-Tutorial exercise for using GiHub.
+Tutorial exercise for using GitHub.
